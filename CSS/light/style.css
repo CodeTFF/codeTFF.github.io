@@ -1,0 +1,8 @@
+:root {
+    --1: rgb(14, 41, 84);
+    --white: #ffffff;
+  }
+
+body{
+    background-color: var(--1);
+}
